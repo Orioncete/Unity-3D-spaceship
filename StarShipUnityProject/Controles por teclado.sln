@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5370A732-B332-66BC-F650-8368FD4FD7A4}") = "Controles por teclado", "Assembly-CSharp.csproj", "{EAFB820A-3D16-FB89-0353-B8DE2C9606A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFB820A-3D16-FB89-0353-B8DE2C9606A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFB820A-3D16-FB89-0353-B8DE2C9606A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFB820A-3D16-FB89-0353-B8DE2C9606A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFB820A-3D16-FB89-0353-B8DE2C9606A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
