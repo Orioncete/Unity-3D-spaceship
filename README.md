@@ -10,9 +10,15 @@ El objetivo del juego es llevar nuestra nave hasta el planeta tierra esquivando 
 
 La nave se controla con cursores del teclado o con las teclas W, A, S, D
 
-### Como arrancarlo ###
+### Instrucciones de uso ###
 
-Descargue las carpetas en una sola carpeta y ejecute el archivo index.html en su navegador
+## Para jugar ##
+
+Instalar la carpeta 'StarShipWebGL' en un servidor y ejecutar el archivo index.html contenido en ella.
+
+## Para edición ##
+
+Abrir la carpeta 'StarShipUnityProject' como proyecto de Unity.
 
 ### Contribution guidelines ###
 
