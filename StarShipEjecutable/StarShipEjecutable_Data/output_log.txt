@@ -1,0 +1,57 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 8370D (ID=0x9998)
+    Vendor:   ATI
+    VRAM:     992 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\xampp\htdocs\Pagina personal\videojuegos\starship\StarShipEjecutable\StarShipEjecutable_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\xampp\htdocs\Pagina personal\videojuegos\starship\StarShipEjecutable\StarShipEjecutable_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\xampp\htdocs\Pagina personal\videojuegos\starship\StarShipEjecutable\StarShipEjecutable_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\xampp\htdocs\Pagina personal\videojuegos\starship\StarShipEjecutable\StarShipEjecutable_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\xampp\htdocs\Pagina personal\videojuegos\starship\StarShipEjecutable\StarShipEjecutable_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\xampp\htdocs\Pagina personal\videojuegos\starship\StarShipEjecutable\StarShipEjecutable_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\xampp\htdocs\Pagina personal\videojuegos\starship\StarShipEjecutable\StarShipEjecutable_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\xampp\htdocs\Pagina personal\videojuegos\starship\StarShipEjecutable\StarShipEjecutable_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.199 seconds
+Platform assembly: C:\xampp\htdocs\Pagina personal\videojuegos\starship\StarShipEjecutable\StarShipEjecutable_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\xampp\htdocs\Pagina personal\videojuegos\starship\StarShipEjecutable\StarShipEjecutable_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3200x1080 at -1920,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.201894 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1b88 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.807085 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.153043 ms (FindLiveObjects: 0.024675 ms CreateObjectMapping: 0.013862 ms MarkObjects: 0.108683 ms  DeleteObjects: 0.004990 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.438892 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.153043 ms (FindLiveObjects: 0.034379 ms CreateObjectMapping: 0.014139 ms MarkObjects: 0.096207 ms  DeleteObjects: 0.006654 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.426970 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.145558 ms (FindLiveObjects: 0.029388 ms CreateObjectMapping: 0.011921 ms MarkObjects: 0.095929 ms  DeleteObjects: 0.006654 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.449428 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.150825 ms (FindLiveObjects: 0.033270 ms CreateObjectMapping: 0.011644 ms MarkObjects: 0.097316 ms  DeleteObjects: 0.006376 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.427247 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.162747 ms (FindLiveObjects: 0.032993 ms CreateObjectMapping: 0.016080 ms MarkObjects: 0.106742 ms  DeleteObjects: 0.004990 ms)
+
